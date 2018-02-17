@@ -11,5 +11,4 @@ sdfsdfsdfs
 sdfsdfsfd
 sdfsdf
 
-
-sdfsdfsdf
+Creating a new branch is quick AND simple.
